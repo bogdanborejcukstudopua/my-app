@@ -1,0 +1,13 @@
+{
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@static"
+    }
+  ],
+  "routes": [
+    {
+      "handle": "filesystem"
+    }
+  ]
+}
